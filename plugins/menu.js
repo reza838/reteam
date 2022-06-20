@@ -493,7 +493,7 @@ const listMessage = {
                 {
                     urlButton: {
                         displayText: `${namebot}`,
-                        url: 'https://kannxapi.herokuapp.com/'
+                        url: 'https://instagram.com/reteam.id'
                     }
                 },
                 {
