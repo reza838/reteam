@@ -1,15 +1,15 @@
 let handler = async (m, { conn, usedPrefix: _p, __dirname, args }) => {
 let text = `
 ┌─「 Donasi • Pulsa 」
-│ • *Indosat:* [${global.ppulsa}]
+│ • *Axis:* [${global.ppulsa}]
 │ • *Axis:* [${global.ppulsa2}]
 ❏────
 
-┌─「 Donasi • Non Pulsa 」
-│ • *Ovo:* [${global.povo}]
-│ • *Gopay:* [${global.pgopay}]
-│ • *Dana:* [${global.pdana}]
-❏────
+Terima kasih telah berdonasi 
+Donasi ya meskipun dikit 
+Jika tidak berdonasi minimal join grup
+
+https://chat.whatsapp.com/JGbF9k7IFJtLNfcCYeJ821
 `
 const templateButtons = [
     {index: 1, urlButton: {displayText: '✨ Saweria', url: psaweria}},
