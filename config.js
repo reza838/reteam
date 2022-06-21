@@ -128,11 +128,11 @@ global.dxlsx = 'application/vnd.openxmlformats-officedocument.spreadsheetml.shee
 global.dpdf = 'application/pdf'
 global.drtf = 'text/rtf'
 
-global.thumbdoc = 'https://uploader.caliph.my.id/file/kgnuvhvd86.jpg'
+global.thumbdoc = 'https://telegra.ph/file/6e45318d7c76f57e4a8bd.jpg'
 
 /*=========== FAKE SIZE ===========*/
-global.fsizedoc = '99999999999999' // default 10TB
-global.fpagedoc = '999'
+global.fsizedoc = '99999999999999999999999999999999' // default 10TB
+global.fpagedoc = '99999999999999999999999999999999'
 
 /*=========== HIASAN ===========*/
 // DEFAULT MENU
