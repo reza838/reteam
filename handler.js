@@ -300,9 +300,9 @@ export async function handler(chatUpdate) {
                 if (!('antiLink' in chat))
                     chat.antiLink = false
                 if (!('viewonce' in chat))
-                    chat.viewonce = false
+                    chat.viewonce = true
                 if (!('antiToxic' in chat))
-                    chat.antiToxic = false
+                    chat.antiToxic = true
                 if (!('simi' in chat))
                     chat.simi = false
                 if (!('nsfw' in chat))
@@ -314,15 +314,15 @@ export async function handler(chatUpdate) {
             } else
                 global.db.data.chats[m.chat] = {
                     isBanned: false,
-                    welcome: false,
-                    detect: false,
+                    welcome: true,
+                    detect: true,
                     sWelcome: '',
                     sBye: '',
                     sPromote: '',
                     sDemote: '',
                     delete: true,
-                    antiLink: false,
-                    viewonce: false,
+                    antiLink: true,
+                    viewonce: true,
                     antiToxic: true,
                     simi: false,
                     expired: 0,
