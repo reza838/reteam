@@ -131,24 +131,24 @@ global.drtf = 'text/rtf'
 global.thumbdoc = 'https://telegra.ph/file/6e45318d7c76f57e4a8bd.jpg'
 
 /*=========== FAKE SIZE ===========*/
-global.fsizedoc = '99999999999999999999999999999999' // default 10TB
+global.fsizedoc = '9999999999' // default 10TB
 global.fpagedoc = '999'
 
 /*=========== HIASAN ===========*/
 // DEFAULT MENU
 global.dmenut = '❏═┅═━–〈' //top
-global.dmenub = '┊•' //body
-global.dmenub2 = '┊' //body for info cmd on Default menu
+global.dmenub = '*✘⃟💻 *' //body
+global.dmenub2 = '*✘⃟🚀 *' //body for info cmd on Default menu
 global.dmenuf = '┗––––––––––✦' //footer
 
 // COMMAND MENU
 global.dashmenu = '┅━━━━━═┅═❏ *DASHBOARD* ❏═┅═━━━━━┅'
 global.cmenut = '––––––『'                       //top
 global.cmenuh = '』––––––'                        //header
-global.cmenub = '*┊✘⃟💻 *'                            //body
+global.cmenub = '*✘⃟💻 *'                            //body
 global.cmenuf = '┗━═┅═━––––––๑\n'                //footer
 global.cmenua = '\n⌕ ❙❘❙❙❘❙❚❙❘❙❙❚❙❘❙❘❙❚❙❘❙❙❚❙❘❙❙❘❙❚❙❘ ⌕\n     ' //after
-global.pmenus = '┊'                              //pembatas menu selector
+global.pmenus = '*✘⃟💻 *'                              //pembatas menu selector
 
 global.htki = '––––––『' // Hiasan Titile (KIRI)
 global.htka = '』––––––' // Hiasan Title  (KANAN)
