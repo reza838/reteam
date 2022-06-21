@@ -50,9 +50,6 @@ global.nameown = '尺乇ㄒ乇卂爪 |ᗪ'
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6288217843188'],
-  ['0'],
-  ['1858704'],
   ['6288217843188', '尺乇ㄒ乇卂爪 |ᗪ', true]
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
@@ -100,12 +97,12 @@ global.APIKeys = { // APIKey Here
 /*============== WATERMARK ==============*/
 //GANTI SETERAH MU
 global.wm = '                「 乂 尺乇ㄒ乇卂爪 乂 」' //Main Watermark
-global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘乂 尺乇ㄒ乇卂爪 乂˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
+global.wm2 = '        乂 尺乇ㄒ乇卂爪 乂        '
 global.wm3 = 'Ҝㄖ卩卂丂ㄩ丂'
 global.botdate = `⫹⫺ 𝗗𝗮𝘁𝗲: ${week} ${date}`
 global.bottime = `𝗧 𝗜 𝗠 𝗘 : ${wktuwib}`
 global.titlebot = 'ㄩ几| 丂ㄖᐯ|乇ㄒ ☠︎︎'
-global.author = '                「 乂 尺乇ㄒ乇卂爪 乂 」'
+global.author = '    「 乂 尺乇ㄒ乇卂爪 乂 」'
 
 
 /*============== LOGO ==============*/
@@ -131,7 +128,7 @@ global.drtf = 'text/rtf'
 global.thumbdoc = 'https://telegra.ph/file/6e45318d7c76f57e4a8bd.jpg'
 
 /*=========== FAKE SIZE ===========*/
-global.fsizedoc = '9999999999' // default 10TB
+global.fsizedoc = '999999999999999' // default 10TB
 global.fpagedoc = '999'
 
 /*=========== HIASAN ===========*/
@@ -145,7 +142,7 @@ global.dmenuf = '┗––––––––––✦' //footer
 global.dashmenu = '┅━━━━━═┅═❏ *DASHBOARD* ❏═┅═━━━━━┅'
 global.cmenut = '––––––『'                       //top
 global.cmenuh = '』––––––'                        //header
-global.cmenub = '*✘⃟💻 *'                            //body
+global.cmenub = '•'                            //body
 global.cmenuf = '┗━═┅═━––––––๑\n'                //footer
 global.cmenua = '\n⌕ ❙❘❙❙❘❙❚❙❘❙❙❚❙❘❙❘❙❚❙❘❙❙❚❙❘❙❙❘❙❚❙❘ ⌕\n     ' //after
 global.pmenus = '*✘⃟💻 *'                              //pembatas menu selector
