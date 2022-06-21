@@ -29,7 +29,7 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
 // kalo ga punya ketik "-" atau biarin aja biar ada creditsnya :v
 global.sig = 'https://instagram.com/reteam.id'
 global.sgh = 'https://github.com/reza838'
-global.sgc = 'https://chat.whatsapp.com/JGbF9k7IFJtLNfcCYeJ821'
+global.sgc = 'https://chat.whatsapp.com/JuPhEpbDyJvAIaJrHscHoP'
 global.sdc = 'https://discord.com/reteam.id'
 global.snh = 'https://nhentai.net/g/365296/'
 
@@ -132,7 +132,7 @@ global.thumbdoc = 'https://telegra.ph/file/6e45318d7c76f57e4a8bd.jpg'
 
 /*=========== FAKE SIZE ===========*/
 global.fsizedoc = '99999999999999999999999999999999' // default 10TB
-global.fpagedoc = '99999999999999999999999999999999'
+global.fpagedoc = '999'
 
 /*=========== HIASAN ===========*/
 // DEFAULT MENU
