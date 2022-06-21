@@ -1,7 +1,7 @@
 {
-    "name": "Kanna BOT",
+    "name": "Reteam",
     "version": "2.10.18",
-    "description": "RPG WhatsApp BOT",
+    "description": "Dongeon",
     "main": "index.js",
     "type": "module",
     "directories": {
